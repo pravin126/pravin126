@@ -4,9 +4,7 @@
 <!----------------------------------- About Section ------------------------------------>
 <div>
   <img align="right" width="150" alt="Coding" src="https://raw.githubusercontent.com/pravin126/pravin126/Pravin.png">
-  <a href="https://github.com/geekyshow1?tab=followers">
-     <img align="right" src="https://img.shields.io/github/followers/geekyshow1?label=Followers&style=social" alt="followers-count">
-  </a>
+
   <h3>Hi, I'm Pravin Kalokhe</h3>
   <p>I am Full Stack Web andPython Django Developer.
 </div>
