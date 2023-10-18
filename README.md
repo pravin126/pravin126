@@ -6,7 +6,7 @@
   <img align="right" width="150" alt="Coding" src="https://raw.githubusercontent.com/pravin126/pravin126/Pravin.png">
 
   <h3>Hi, I'm Pravin Kalokhe</h3>
-  <p>I am Full Stack Web andPython Django Developer.
+  <p>I am Full Stack Web and Python,Django Developer.
 </div>
 
 <!----------------------------------- I Know This ------------------------------------>
