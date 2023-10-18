@@ -3,7 +3,8 @@
 
 <!----------------------------------- About Section ------------------------------------>
 <div>
-  <img align="right" width="150" alt="Coding" src="https://raw.githubusercontent.com/Pravin.jpg">
+  <img align="right" width="150" alt="Coding" src="https://raw.githubusercontent.com/pravin126
+/Pravin.jpg">
 
   <h3>Hi, I'm Pravin Kalokhe</h3>
   <p>I am Full Stack Web and Python,Django Developer.
