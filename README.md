@@ -3,7 +3,7 @@
 
 <!----------------------------------- About Section ------------------------------------>
 <div>
-  <img align="right" width="150" alt="Coding" src="https://raw.githubusercontent.com/pravin126
+  <img align="right" width="150" alt="Coding" src="https://raw.githubusercontent.com/main/pravin126
 /Pravin.jpg">
 
   <h3>Hi, I'm Pravin Kalokhe</h3>
