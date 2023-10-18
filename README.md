@@ -37,8 +37,7 @@
 </p>
 <h3>Mobile Framework </h3>
 <p>
-  
-    <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactnative" />
+       <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactnative" />
 </p>
 <h3>Other</h3>
 <p>
