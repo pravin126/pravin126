@@ -5,7 +5,7 @@
 /Pravin.jpg">
 
   <h3>Hi, I'm Pravin Kalokhe</h3>
-  <p>I am Full Stack Web Devloper and Backend Devlopment Python,Django ,Django_Rest_Framework.
+  <h3 align="center">A passionate Full Stack Web Devloper and Backend Devlopment Python,Django ,Django_Rest_Framework</h3>
 </div>
 
 <!----------------------------------- I Know This ------------------------------------>
@@ -39,16 +39,10 @@
      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman" />
 </p>
 
-<h1 align="center">Hi 👋, I'm I'm Pravin Kalokhe</h1>
-<h3 align="center">A passionate Full Stack Web Devloper and Backend Devlopment Python,Django ,Django_Rest_Framework</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pravin126&label=Profile%20views&color=0e75b6&style=flat" alt="pravin126" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pravin126" alt="pravin126" /></a> </p>
-
-- 💬 Ask me about **Python,Django**
-
-- 📫 How to reach me **pravinkalokhe5@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
