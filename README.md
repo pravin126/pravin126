@@ -5,7 +5,7 @@
 /Pravin.jpg">
 
   <h3>Hi, I'm Pravin Kalokhe</h3>
-  <p>I am Full Stack Web Devloper and Python,Django ,Django_Rest_Framework.
+  <p>I am Full Stack Web Devloper and Backend Devlopment Python,Django ,Django_Rest_Framework.
 </div>
 
 <!----------------------------------- I Know This ------------------------------------>
