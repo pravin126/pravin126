@@ -4,7 +4,7 @@
   <img align="right" width="150" alt="Coding" src="https://github.com/pravin126/pravin126/main
 /Pravin.jpg">
 
-  <h3>Hi, I'm Pravin Kalokhe</h3>
+  <h3>I'm Pravin Kalokhe</h3>
   <h2 align="center">A passionate Full Stack Web Devlopment and Backend Devlopment Python,B2B Applications,Django ,Django_Rest_Framework</h2>
 </div>
 
